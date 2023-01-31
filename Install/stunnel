@@ -1,0 +1,6 @@
+cert = /etc/stunnel/cert.pem
+key = /etc/stunnel/key.pem
+client = no
+[stunnel]
+connect = 000.0.0.0:00
+accept = 443
